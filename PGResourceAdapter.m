@@ -47,7 +47,7 @@ static NSString *const PGCFBundleTypeExtensionsKey = @"CFBundleTypeExtensions";
 
 static NSString *const PGOrientationKey = @"PGOrientation";
 
-#define PGThumbnailSize 128.0f
+#define PGThumbnailSize 256.0f
 
 @interface PGThumbnailGenerationOperation : NSOperation
 {
